@@ -1,0 +1,27 @@
+body {
+  background: #efd593;
+}
+h1 {
+  text-align: center;
+}
+.croissant-image {
+  max-width: 800px;
+  display: block;
+  margin: 30px auto;
+
+  border-radius: 12px;
+}
+p {
+  font-size: 16px;
+  text-align: center;
+}
+.links {
+  display: block;
+  text-align: center;
+}
+a {
+  margin: 10px;
+}
+a:visited {
+  color: #5c5f30;
+}
